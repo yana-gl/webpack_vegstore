@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom";
 import AppContext from "../context";
-import React from "react";
+import * as React from "react";
 import classnames from 'classnames';
 
 interface HeaderProps {

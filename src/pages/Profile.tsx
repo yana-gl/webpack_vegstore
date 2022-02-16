@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Item from '../components/Item';
 import Info from '../components/Info';
 import classnames from 'classnames';

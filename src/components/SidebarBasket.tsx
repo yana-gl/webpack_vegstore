@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import Info from "./Info";
 import AppContext from "../context";
 import { ItemModel } from "../models/itemModel";

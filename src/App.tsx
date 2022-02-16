@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Header from './components/Header';
 import SidebarBasket from './components/SidebarBasket';
 import { Route } from 'react-router-dom';

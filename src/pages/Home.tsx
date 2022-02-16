@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import Item from '../components/Item';
 import Search from '../components/Search';
 import AppContext from '../context';
